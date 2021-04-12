@@ -24,7 +24,8 @@ Repository for the paper **Multi-task Learning for Cross-Lingual SentimentAnalys
 ### Publication
 
 #### BibTeX
-`
+```
+
 @inproceedings{thakkar2021multi,
   title={Multi-task Learning for Cross-Lingual Sentiment Analysis},
   author={Thakkar, Gaurish and Mikelic, Nives and Marko, Tadi{\'c}},
@@ -33,7 +34,8 @@ Repository for the paper **Multi-task Learning for Cross-Lingual SentimentAnalys
   pages={76--84},
   year={2021}
 }
-`
+
+```
 
 
 ### Acknowledgement
